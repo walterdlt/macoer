@@ -21,6 +21,13 @@
 	"content": "Mathematics Online Resources and Tools Coming Soon.\n"
 },
 {
+	"uri": "https://mecgoonline.github.io/engineering/meetups/",
+	"title": "Meetups",
+	"tags": [],
+	"description": "",
+	"content": "Courses meetings information will be in this section soon\u0026hellip; "
+},
+{
 	"uri": "https://mecgoonline.github.io/engineering/courses/mae101/",
 	"title": "MAE101",
 	"tags": [],
@@ -28,18 +35,18 @@
 	"content": "Engineering Lab I Engineering Lab Resources \u0026amp; Raw Data Experimental Report It is important for students to communicate his or her knowledge of the subject with well-written individual lab report that are decent and that accurately explain the efforts, hypthesis or concise theoretical background of the the topic under inverstigation, observations and discussion of the results. it is imperative for the student to keep in mind that instructor may not be the only reader of the report and to write in a clear fashion such that other people who are unfamiliar with the subject matter can read and understand the material presented. Desirably the narration sould be free of any commitment to any person(s), that is refrain from the use of pronouns such as I, We, Our, Us, etc.\nTo convey understanding, the organization of the lab report should lead to a deft arrangment of information including data, graphs, and pertinent answes to such questions posed by the experiments.\nThe preferred lab report format is typewritten, double-space. thus for this course the guideline for an acceptable lab report format is outlined in the following example  Lab Report Ouline  Lab Report Submission: Student are required to submit an individual lab report for the each experiment. PDFs are the preferred format since PDFs can be uploaded to Blackboard.\n Assignment 1 : Fatigue Failure Assignment 2 : Tension \u0026amp; Compression Test Assignment 3 : Bending of Beam \u0026amp; Moments of Forces Assignment 4 : Internal Forces in Truss Members \u0026amp; End Reaction of a loaded Beam  Make sure you write a separate lab report for each experiment.\n Following are the experiments instructions:\n   Experiment Manual Data Demo     Fatigue Failure Handout   Get Data   Watch   Tension Test Handout   Get Data   Watch   Compression Test Handout   Get Data   Watch   Bending of Beam Handout   Get Data   Watch   Moments of Forces Handout   Get Data   Watch   End Reaction of a Loaded Beam Handout   Get Data   Watch   Interenal Forces in Truss Members Handout   Get Data   Watch    "
 },
 {
-	"uri": "https://mecgoonline.github.io/engineering/meetings/",
-	"title": "Meetings",
-	"tags": [],
-	"description": "",
-	"content": "Meeting Schedules "
-},
-{
 	"uri": "https://mecgoonline.github.io/engineering/",
 	"title": "Engineering",
 	"tags": [],
 	"description": "",
 	"content": "Engineering \u0026amp; Energy Technology Online Resources  The rapid development of engineering software and mobile applications makes it possible for engineers to have tools and solutions at their fingertips. Select a course to see a list of available online resources and Tools:\n  MAE 100 - Computer-Aided Design MAE 101 - Engineering Lab I MAE 102 - Electrical Drafting and Blue Print Reading MAE 107 - Manufacturing Processes MAE 109 - Introduction to Engineering MAE 110 - Circuit Analysis I MAE 111 - Circuit Analysis II MAE 121 - Instrumentation  MAE 122 - Electrical Measurements and Instrumentation MAE 191 - Statics and Strength of Materials  MAE 207 - Introduction to Thermodynamics for Technicians MAE 208 - Electromechanical Devices  MAE 209 - Structural and Site Plans  MAE 211 - Engineering Mechanics: Statics MAE 213 - Electrical Circuits I  [MAE 219 - Thermodynamics I] [MAE 230 - Senior Design Project]  "
+},
+{
+	"uri": "https://mecgoonline.github.io/engineering/assistance/",
+	"title": "Assistance",
+	"tags": [],
+	"description": "",
+	"content": "Online courses Assistance If a student is experiencing difficulty with a course, help is available. In addition to aid from the specific professor or teaching assistant. More info will come soon\u0026hellip;\n"
 },
 {
 	"uri": "https://mecgoonline.github.io/engineering/courses/mae102/",
@@ -67,7 +74,7 @@
 	"title": "MAE109",
 	"tags": [],
 	"description": "",
-	"content": "Introduction to Engineering Digital Clock Module Multisim LiveOnline Circuit Simulation: Multisim Liveis a free, online circuit simulator that includes SPICE software, which lets you create, learn and share circuits and electronics online. The Multisiminterface, component library and interactive features allowyou tocapture and test the behavior of a circuit. Each student is required to openan account on https://www.multisim.com/ and re-create specific in-class circuit schematicson the online simulator.\nAccess to Multisim Live\n Go to https://www.multisim.com/ Click on Sign up for Free Fill out the form to create an account Comfirm your account via email Login into Multisim  Leran how to use Multisim Live : Get Started\nRobotics Module Flowcode 8 - Visual Programming for PIC, Arduino and more Flowcode is an advanced integrated development environment (IDE) for electronic and electromechanical system development targeting microcontrollers such as Arduino, PIC and ARM, and rugged industrial interfaces using protocols such as Modbus and CAN.\n Get Grav with icon  "
+	"content": "Introduction to Engineering Digital Clock Module Multisim LiveOnline Circuit Simulation: Multisim Liveis a free, online circuit simulator that includes SPICE software, which lets you create, learn and share circuits and electronics online. The Multisiminterface, component library and interactive features allowyou tocapture and test the behavior of a circuit. Each student is required to openan account on https://www.multisim.com/ and re-create specific in-class circuit schematicson the online simulator.\nAccess to Multisim Live\n Go to https://www.multisim.com/ Click on Sign up for Free Fill out the form to create an account Comfirm your account via email Login into Multisim  Leran how to use Multisim Live : Get Started\nRobotics Module Flowcode 8 - Visual Programming for PIC, Arduino and more Flowcode is an advanced integrated development environment (IDE) for electronic and electromechanical system development targeting microcontrollers such as Arduino, PIC and ARM, and rugged industrial interfaces using protocols such as Modbus and CAN.\n Download Flowcode  "
 },
 {
 	"uri": "https://mecgoonline.github.io/engineering/courses/mae110/",
