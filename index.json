@@ -1,5 +1,12 @@
 [
 {
+	"uri": "https://mecgoonline.github.io/computer-science/mac/",
+	"title": "MAC Resources",
+	"tags": [],
+	"description": "",
+	"content": "Computer Science Software  To Download CodeBlock To Download Eclipse To Download Visual Studio Code To Download Java (JDK)  To Download Netbeans IDE To Download JavaFX  Programming and Software Development Software  To Download MySQL Database To Download Brackets To Download PHP To Downoload Apache XAMPP To Download Python  Network Administration and Information Security Tools  To Download Virtual Box To Download Fedora Server To Download Fedora Workstation To Download Ubuntu  Computer Technoogy Tools  Electrical and Blue Print Readings Multisim LiveOnline Circuit Simulation  "
+},
+{
 	"uri": "https://mecgoonline.github.io/engineering/courses/mae100/",
 	"title": "MAE100",
 	"tags": [],
@@ -21,6 +28,13 @@
 	"content": "Mathematics Online Resources and Tools Coming Soon.\n"
 },
 {
+	"uri": "https://mecgoonline.github.io/computer-science/tutoring/",
+	"title": "MAC Tutoring",
+	"tags": [],
+	"description": "",
+	"content": "Tutoring for all MAC courses:  All tutoring sessions will use communication apps (Google Hangout and zoom) for both individual and group sessions. Schedule a tutoring session  Google Hangouts - Zoom - Microsoft Teams Tutorials\n   Video Links Description     Zoom for Online Meeting How to Use Zoom Online Online Meetings - Setting up an account and hosting a meeting   How To Zoom Complete training (Scheduling, Recording, Sharing and more)   Google Hangout Google Hangout Tutorial   Google Hangout Google Hangout Tutorial - Details (text messages, calling and video chat)   Microsoft Teams Microsoft Teams Tutorial For Beginners   Microsoft Teams Microsoft Teams Tutorials - Complete Training    "
+},
+{
 	"uri": "https://mecgoonline.github.io/engineering/courses/mae101/",
 	"title": "MAE101",
 	"tags": [],
@@ -35,6 +49,13 @@
 	"content": "Engineering \u0026amp; Energy Technology Online Resources  The rapid development of engineering software and mobile applications makes it possible for engineers to have tools and solutions at their fingertips. Select a course to see a list of available online resources and Tools:\n  MAE 100 - Computer-Aided Design MAE 101 - Engineering Lab I MAE 102 - Electrical Drafting and Blue Print Reading MAE 107 - Manufacturing Processes MAE 109 - Introduction to Engineering MAE 110 - Circuit Analysis I MAE 111 - Circuit Analysis II MAE 121 - Instrumentation  MAE 122 - Electrical Measurements and Instrumentation MAE 191 - Statics and Strength of Materials  MAE 207 - Introduction to Thermodynamics for Technicians MAE 208 - Electromechanical Devices  MAE 209 - Structural and Site Plans  MAE 211 - Engineering Mechanics: Statics MAE 213 - Electrical Circuits I  [MAE 219 - Thermodynamics I] [MAE 230 - Senior Design Project]  Meetups: To be announced\nOnline Support To be announced\n"
 },
 {
+	"uri": "https://mecgoonline.github.io/computer-science/chat/",
+	"title": "MAC Chat",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://mecgoonline.github.io/engineering/courses/mae102/",
 	"title": "MAE102",
 	"tags": [],
@@ -46,7 +67,7 @@
 	"title": "Computer Science",
 	"tags": [],
 	"description": "",
-	"content": "Computer Science Online Resources The Computer science program offer a variety of resources for academic success. These resources include access to lesson-video conferencing, tutoring and online computing and a variety of programs. Students will be offered online tutoring and mentoring.\nVirtual Resources Google Hangouts - Zoom - Microsoft Teams Tutorials\n   Video Links Description     Zoom for Online Meeting How to Use Zoom Online Online Meetings - Setting up an account and hosting a meeting   How To Zoom Complete training (Scheduling, Recording, Sharing and more)   Google Hangout Google Hangout Tutorial   Google Hangout Google Hangout Tutorial - Details (text messages, calling and video chat)   Microsoft Teams Microsoft Teams Tutorial For Beginners   Microsoft Teams Microsoft Teams Tutorials - Complete Training    MAC Lab Information Location: MAC Lab\nB305 : Lab tech office B305 will have available CLTs to attend to any technical need from studdents and faculty\n  In person: CLTs will keep at least one lab open (as needed) in case students need to work with specific software for programming or networking projects/homework\n  Online: CLTs will be available for technical help during working hours remotely for faculty and students using the following resources:\n   Via Chat, live communication Via video conference Email/Ticketing system.  If School close only online options will be available Online communication: Faculty can choose from the following: Google Hangouts Zoom Microsoft Teams (tutorials will be provided on website).\n "
+	"content": "Computer Science Online Resources The Computer science program offer a variety of resources for academic success. These resources include access to lesson-video conferencing, tutoring and online computing and a variety of programs. Students will be offered online tutoring and mentoring.\nMAC Lab Information Location: MAC Lab\nB305 : Lab tech office B305 will have available CLTs to attend to any technical need from studdents and faculty\n  In person: CLTs will keep at least one lab open (as needed) in case students need to work with specific software for programming or networking projects/homework\n  Online: CLTs will be available for technical help during working hours remotely for faculty and students using the following resources:\n   Via Chat, live communication Via video conference Email/Ticketing system.  If School close only online options will be available Online communication: Faculty can choose from the following: Google Hangouts Zoom Microsoft Teams (tutorials will be provided on website).\n "
 },
 {
 	"uri": "https://mecgoonline.github.io/engineering/courses/mae107/",
@@ -54,6 +75,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Manufacturing Processes CNCMotion Software CNCMotion integrates interactive 3D simulation with CNCBase machine control software for dynamic simulation and graphic tracking of Intelitek’s CNCmills and lathes.\nCNCMotion simulates the entire machining process in real time-accurately reflecting the movement of machine components and tools, and the form of raw materials changing into finished parts.\nThe virtual machines in CNCMotion respond to errors and environmental conditions in the same way as safeguards on real machines prevent injury and damage. Safety measures include halting NC program execution upon impact or axis limit, and warnings of unsafe hardware conditions (e.g., safety shield open, tool missing, tool impact on the cross-slide or holding device).\nAs a powerful visualization tool, the software enables testing and debugging of programming, as well as full machine setup, prior to actual CNC machining and turning.\n Download CNCMotion  "
+},
+{
+	"uri": "https://mecgoonline.github.io/blackboard/",
+	"title": "Distance Learning Tools",
+	"tags": [],
+	"description": "",
+	"content": "Distance Learning Tools Blackboard Resources    Video Links Name of Resource     Blackboard Collaboration Blackboard Collaborate with the Ultra Experience User Interface Tour   Session Settings Sessing Settings in Blackboard Collaborate with the Ultra Experience   Sharing PowerPoint Files in BB Sharing PowerPoint Files in Blackboard Collaborate   Polling in Blackboard Polling in Blackboard Collaborate with the Ultra Experience   Breakout Groups in Blackboard Breakout Groups in Blackboard Collaborate with the Ultra Experience   Translating On-Campus to Distance-Learning Translating On-Campus Classes To a Distance Learning Course   Other Resources [Blackboard Collaboration)](/\u0026ldquo;computer science\u0026rdquo;/mac/bb-collaborate.pdf)    ConnectCUNY Webex Blackboard Collaboration didn\u0026rsquo;t work for you? No problem try Webex. CUNY has arranged for Cisco Webex to provide short-term Webex Meeting and Webex Teams licenses to all CUNY students, faculty and staff to help with online learning and meetings during the spring 2020 coronavirus outbreak.\nCUNY has implemented the Webex Education Connector that allows:\n Faculty to launch Webex Meetings as part of scheduled classes or on demand Faculty to use Webex Meetings to provide virtual office hours Students to participate in Webex Meetings through Blackboard   Webex Quick Start Guide  How about Zoom? Zoom also is a good option for distance learning. The good news during the global COVID-19 pandemic. Zoom is temporarily lifting the 40-minute meeting limit on free Basic accounts. Here are some additional online resources to help you most effectively use Zoom for virtual education:\n Live Zoom training daily: These include sessions specifically highlighting Zoom Meetings for Education (Students \u0026amp; Educators), focusing on using Zoom Meetings as your classroom setting. Zoom Webinar training is also available. Recorded Zoom training: Watch previously recorded sessions on demand and at your convenience. Several are in German, Japanese, and Korean, in addition to English. Tips for instructors: Check out this Twitter thread from USC Ph.D. student and online instructor Alana Kennedy on some of the most useful features and best practices for teaching over Zoom.   Download Zoom Client  "
 },
 {
 	"uri": "https://mecgoonline.github.io/engineering/courses/mae109/",
