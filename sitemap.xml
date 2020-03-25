@@ -18,13 +18,13 @@
   </url>
   
   <url>
-    <loc>https://mecgoonline.github.io/engineering/courses/</loc>
-    <lastmod>2020-03-17T18:15:03-04:00</lastmod>
+    <loc>https://mecgoonline.github.io/mathematics/</loc>
+    <lastmod>2020-03-17T18:13:27-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mecgoonline.github.io/mathematics/</loc>
-    <lastmod>2020-03-17T18:13:27-04:00</lastmod>
+    <loc>https://mecgoonline.github.io/engineering/software/</loc>
+    <lastmod>2020-03-24T22:37:30-04:00</lastmod>
   </url>
   
   <url>
@@ -50,6 +50,11 @@
   <url>
     <loc>https://mecgoonline.github.io/engineering/courses/mae102/</loc>
     <lastmod>2020-03-17T18:44:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mecgoonline.github.io/engineering/courses/</loc>
+    <lastmod>2020-03-17T18:15:03-04:00</lastmod>
   </url>
   
   <url>
@@ -124,7 +129,7 @@
   
   <url>
     <loc>https://mecgoonline.github.io/</loc>
-    <lastmod>2020-03-19T22:29:31-04:00</lastmod>
+    <lastmod>2020-03-24T22:37:30-04:00</lastmod>
     <priority>0</priority>
   </url>
   
