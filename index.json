@@ -1,5 +1,12 @@
 [
 {
+	"uri": "https://mecgoonline.github.io/mathematics/resources/",
+	"title": "MAT Resources",
+	"tags": [],
+	"description": "",
+	"content": "Video Resources    Video Links Description     Bb Make Your Course Available Make Your Course Available in the Original Course View on Blackboard   Blackboard Collaborate Ultra Blackboard Collaborate with the Ultra Experience User Interface Tour   Bb Collaborate Ultra Session Settings Blackboard Collaborate with the Ultra Experience User Interface Tour   Bb Collaborate Demonstration Session Settings in Blackboard Collaborate with the Ultra Experience   Bb Teaching a Virtual Class Session Settings in Blackboard Collaborate with the Ultra Experience   Bb Creating a test Getting Started with Teaching a Virtual Class with Bb Collaborate Ultra   Bb Creating and Deploying Tests Faculty: Creating a test in Blackboard 9.1   Bb Adding Your TA or Tutor Creating and Deploying Tests in Blackboard   Lumen: Adding Your TA or Tutor Adding your TA or tutor to Blackboard   Lumen: How to Add an Assessment, Homework, Quiz or Exam Adding your TA or tutor to Lumen OHM (The tutor must have an account or username in Lumen already)   Lumen: Finding and Adding Assessment Questions Finding and Adding Assessment Questions in Lumen OHM   Microsoft Teams Tutorial Microsoft Teams Tutorial For Beginners   Microsoft Teams - Complete Training Microsoft Teams: Basics and beyond   Google Hangouts Tutorial Google Hangouts Tutorial   Google Hangouts - Detailed Tutorial Google Hangouts Tutorial - Details (text messages, calling and video chat)    Other Resources    Document Title Description     Bb Making Course Available How to Make My Course Available in Blackboard, Step by Step   Bb Collaborate Ultra Blackboard Collaborate with the Ultra Experience   Adding Your TA to Blackboard How to Add Your Teaching Assistant to Blackboard, Step by Step   Bb Creating Video Recordings Blackboard Help with instructions about creating video recordings   Pearson Digital Class Materials Blackboard Help with instructions about creating video recordings   McGraw-Hill AccessScience Guide McGraw-Hill Using AccessScience to Support Distance Learning (LaGuardia Library Subscription)   McGraw-Hill AccessScience McGraw-Hill AccessScience Free Digital Class Materials (LaGuardia Library Subscription)    Helpful Links    Description Link     CUNY Blackboard Help For All Users Click Here   CUNY Blackboard Help For Faculty Click Here   CUNY Blackboard Help For Students Click Here   Blackboard Help For Students Click Here   Blackboard Help Topics For Faculty Click Here    "
+},
+{
 	"uri": "https://mecgoonline.github.io/engineering/maesupport/",
 	"title": "MAE Distance Support",
 	"tags": [],
@@ -25,7 +32,14 @@
 	"title": "Mathematics",
 	"tags": [],
 	"description": "",
-	"content": "Mathematics Online Resources and Tools Coming Soon.\n"
+	"content": "Distance Learning Resources and Tools The MEC Department is providing a variety of distance learning resources to help you succeed with your mathematics courses. These resources include access to lesson-video conferencing, tutoring, and online materials for both faculty and students.\nMathematics Laboratory Technicians are available remotely to provide faculty and students with technical support.\nStudents are being offered online tutoring and mentoring.\n"
+},
+{
+	"uri": "https://mecgoonline.github.io/mathematics/support/",
+	"title": "MAT Support",
+	"tags": [],
+	"description": "",
+	"content": "Mathematics Technical Support Mathematics Laboratory Technicians are available remotely to provide faculty and students with technical support. You may use the following methods:\n Ticketing system: Please click on the button to submit a ticket and we’ll help with your issue, Submit a Ticket By Phone: You may contact us at (718) 482-5730 - Monday through Friday, 9:00 AM - 9:00 PM Note: LaGuardia\u0026rsquo;s Telephone Services is currently working on setting up this service for our us. Via e-mail: You may contact one of our CLTs via e-mail - Monday through Friday, during their assigned times:  LaGuardia\u0026rsquo;s Telephone Services is currently working on setting up this service for our us.\n  Via e-mail: You may contact one of our CLTs via e-mail - Monday through Friday, during their assigned times:     Time Technician Email     Morning 8:00 AM - 12:00 Noon Cristina Lozano clozano@lagcc.cuny.edu   Morning 8:00 AM - 12:00 Noon Henry Mai xmei@lagcc.cuny.edu   Day 9:00 AM - 5:00 PM Luis A. Gonzalez lgonzalez@lagcc.cuny.edu   Afternoon 1:00 PM - 9:00 PM Yvens Valere valerey@lagcc.cuny.edu   Evening 5:00 AM - 10:00 PM Luis Fuenmayor lfuenmayor@lagcc.cuny.edu   Evening 5:00 AM - 10:00 PM David Junco djunco@lagcc.cuny.edu   Evening 5:00 AM - 10:00 PM Juan Sigua jsigua@lagcc.cuny.edu     Video conference: If you would like to schedule a video conference, make an appointment with one of our CLTs. All video conference support sessions will use Blackboard Collaborate Ultra or Webex.  "
 },
 {
 	"uri": "https://mecgoonline.github.io/engineering/software/",
@@ -54,6 +68,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Engineering \u0026amp; Energy Technology Online Resources  The rapid development of engineering software and mobile applications makes it possible for engineers to have tools and solutions at their fingertips. Select a course to see a list of available online resources and Tools:\n  MAE 100 - Computer-Aided Design MAE 101 - Engineering Lab I MAE 102 - Electrical Drafting and Blue Print Reading MAE 107 - Manufacturing Processes MAE 109 - Introduction to Engineering MAE 110 - Circuit Analysis I MAE 111 - Circuit Analysis II MAE 121 - Instrumentation  MAE 122 - Electrical Measurements and Instrumentation MAE 191 - Statics and Strength of Materials  MAE 207 - Introduction to Thermodynamics for Technicians MAE 208 - Electromechanical Devices  MAE 209 - Structural and Site Plans  MAE 211 - Engineering Mechanics: Statics MAE 213 - Electrical Circuits I  [MAE 219 - Thermodynamics I] [MAE 230 - Senior Design Project]  "
+},
+{
+	"uri": "https://mecgoonline.github.io/mathematics/tutoring/",
+	"title": "MAT Tutoring",
+	"tags": [],
+	"description": "",
+	"content": "Tutoring for all MAT courses:  All tutoring sessions will use communication apps (e.g. Blackboard Collaborate Ultra, Webex) for both individual and group sessions. Not familiar with your tutor? Check the Tutor Assignments and phones  Video Tutorials - How to Use: Blackboard Collaborate Ultra - Google Hangouts - Microsoft Teams\n   Video Links Description     Bb Collaborate Demonstration Blackboard Collaborate with the Ultra Experience Demonstration   Google Hangouts Tutorial Google Hangouts Tutorial   Google Hangouts - Detailed Tutorial Google Hangouts Tutorial - Details (text messages, calling and video chat)   Microsoft Teams Tutorial Microsoft Teams Tutorial For Beginners   Microsoft Teams - Complete Training Microsoft Teams: Basics and beyond    "
 },
 {
 	"uri": "https://mecgoonline.github.io/computer-science/chat/",
