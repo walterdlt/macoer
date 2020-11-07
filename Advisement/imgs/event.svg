@@ -13,11 +13,10 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   viewBox="0 0 488.829 488.829"
-   style="enable-background:new 0 0 488.829 488.829;"
+   viewBox="0 0 124.11676 124.11674"
    xml:space="preserve"
-   width="512"
-   height="512"
+   width="130"
+   height="130"
    sodipodi:docname="event.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
    id="metadata1005"><rdf:RDF><cc:Work
@@ -37,15 +36,16 @@
    id="namedview1001"
    showgrid="false"
    inkscape:zoom="1.0644531"
-   inkscape:cx="256"
-   inkscape:cy="256"
+   inkscape:cx="405.37248"
+   inkscape:cy="30.53211"
    inkscape:window-x="0"
    inkscape:window-y="18"
    inkscape:window-maximized="0"
-   inkscape:current-layer="Layer_1" />
+   inkscape:current-layer="Layer_1"
+   units="px" />
 <g
    id="g998"
-   transform="matrix(0.24036697,0,0,0.24036697,82.634147,162.34504)">
+   transform="matrix(0.24036697,0,0,0.24036697,3.7039488,3.0306456)">
 	<path
    style="fill:#ffe563"
    d="m 333.48,405.045 c -31.911,0 -57.872,-25.961 -57.872,-57.872 0,-31.911 25.961,-57.872 57.872,-57.872 31.91,0 57.871,25.961 57.871,57.872 0,31.911 -25.961,57.872 -57.871,57.872 z m 0,-100.743 c -23.64,0 -42.872,19.232 -42.872,42.872 0,23.64 19.232,42.872 42.872,42.872 23.64,0 42.871,-19.232 42.871,-42.872 0,-23.64 -19.231,-42.872 -42.871,-42.872 z"
@@ -146,7 +146,7 @@
    inkscape:connector-curvature="0" />
 	<polygon
    style="fill:#fc74af"
-   points="151.847,448.899 165.927,430.909 180.007,448.899 165.927,477.479 "
+   points="165.927,477.479 151.847,448.899 165.927,430.909 180.007,448.899 "
    id="polygon972" />
 	<path
    style="fill:#fc74af"
@@ -160,7 +160,7 @@
    inkscape:connector-curvature="0" />
 	<polygon
    style="fill:#ffe563"
-   points="254.968,328.655 254.968,266.285 423.299,226.261 423.299,368.679 "
+   points="423.299,368.679 254.968,328.655 254.968,266.285 423.299,226.261 "
    id="polygon978" />
 	<path
    style="fill:#e89876"
@@ -169,7 +169,7 @@
    inkscape:connector-curvature="0" />
 	<polygon
    style="fill:#ffa829"
-   points="254.968,328.655 254.968,305.884 423.299,315.032 423.299,368.679 "
+   points="423.299,368.679 254.968,328.655 254.968,305.884 423.299,315.032 "
    id="polygon982" />
 	<path
    style="fill:#ffcbb3"
@@ -178,11 +178,11 @@
    inkscape:connector-curvature="0" />
 	<polygon
    style="fill:#3e5268"
-   points="253.509,488.829 280.788,416.429 333.419,436.269 313.609,488.829 "
+   points="313.609,488.829 253.509,488.829 280.788,416.429 333.419,436.269 "
    id="polygon986" />
 	<polygon
    style="fill:#27394c"
-   points="253.509,488.829 280.788,416.429 301.839,424.359 277.538,488.829 "
+   points="277.538,488.829 253.509,488.829 280.788,416.429 301.839,424.359 "
    id="polygon988" />
 	<path
    style="fill:#96efff"
